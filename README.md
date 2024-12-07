@@ -12,7 +12,8 @@
 <a href="https://twitter.com/madara-alliance">
 <img src="https://img.shields.io/twitter/follow/madara-alliance?style=social"/> </a>
 <a href="https://github.com/madara-alliance/madara">
-<img src="https://img.shields.io/github/stars/madara-alliance/madara?style=social"/>
+<img src="https://img.shields.io/github/stars/madara-alliance/madara?style=social"/> </a>
+<a href="https://github.com/KasarLabs/deoxys-telemetry/stargazers">
 </a>
 
 </div>
